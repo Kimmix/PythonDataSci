@@ -1,5 +1,5 @@
 # ----------------------------------------------  Example 01 ----------------------------------------------------------------
-x = int(input('Function digital root => '))
+x = int(input('Function digital root =>  '))
 
 
 def sum(x):
